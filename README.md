@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sambit Kumar Sahu</h1>
-<h3 align="center">Hello! I'm a dedicated full stack MERN developer based in India with a strong passion for crafting engaging and user-friendly web experiences. With a keen eye for detail and a love for cutting-edge technologies, I strive to bring designs to life with clean, efficient, and maintainable code.</h3>
+<h3 align="center">I'm a passionate full stack MERN developer based in India with a strong passion for crafting engaging and user-friendly web experiences. With a keen eye for detail and a love for cutting-edge technologies, I strive to bring designs to life with clean, efficient, and maintainable code.</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif"/>
 
