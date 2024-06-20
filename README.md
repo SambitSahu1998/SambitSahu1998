@@ -23,7 +23,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G1Ql8ucUwizXzukIBJizQEkkwogOaJ3-/view?usp=sharing](https://drive.google.com/file/d/1G1Ql8ucUwizXzukIBJizQEkkwogOaJ3-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q5isN6zAImgjmfCsG1ML2NWCTYcd2BdG/view?usp=sharing](https://drive.google.com/file/d/1q5isN6zAImgjmfCsG1ML2NWCTYcd2BdG/view?usp=sharing)
 
 - ⚡ Fun fact **I think I had a eureka moment on the porcelain throne!**
 
